@@ -1,0 +1,13 @@
+com\wfb\manage\dao\DoubleGenDataMapper.class
+com\wfb\manage\ManageApplication.class
+com\wfb\manage\service\MenuListService.class
+com\wfb\manage\dao\ProductMapper.class
+com\wfb\manage\dao\UserRegistAndLoginRepository.class
+com\wfb\manage\service\UserRegistAndLoginService.class
+com\wfb\manage\dao\MenuRepository.class
+com\wfb\manage\controller\UserRegistAndLoginController.class
+com\wfb\manage\controller\DoubleGenDataController.class
+com\wfb\manage\controller\ProductController.class
+com\wfb\manage\service\DoubleGenDataService.class
+com\wfb\manage\service\ProductService.class
+com\wfb\manage\controller\ShowMenuListController.class

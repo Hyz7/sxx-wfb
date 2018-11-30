@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/wfb.iml" filepath="$PROJECT_DIR$/.idea/wfb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wfb-framework-common/wfb-framework-common.iml" filepath="$PROJECT_DIR$/wfb-framework-common/wfb-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wfb-framework-model/wfb-framework-model.iml" filepath="$PROJECT_DIR$/wfb-framework-model/wfb-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wfb-framework-parent/wfb-framework-parent.iml" filepath="$PROJECT_DIR$/wfb-framework-parent/wfb-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wfb-framework-utils/wfb-framework-utils.iml" filepath="$PROJECT_DIR$/wfb-framework-utils/wfb-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wfb-service-api/wfb-service-api.iml" filepath="$PROJECT_DIR$/wfb-service-api/wfb-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wfb-service-market/wfb-service-market.iml" filepath="$PROJECT_DIR$/wfb-service-market/wfb-service-market.iml" />
+    </modules>
+  </component>
+</project>
